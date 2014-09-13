@@ -364,7 +364,8 @@ footer p + p {
 }
 
 .uppertable {
-  width:33%; padding:auto;
-  border: 3px solid grey; border-style:ridge;
+  width:33%; padding:auto; text-align: center;
+  border: 3px solid #C0C7C2; border-style:ridge;
   background-color:#A1BFAA;
+  font-family: arial; font-size:15px;
 }
