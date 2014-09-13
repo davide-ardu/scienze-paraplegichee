@@ -354,3 +354,11 @@ footer p + p {
     content: 'at http://github.com/';
   }
 }
+
+
+.titoliparagrafi {
+  color: #0B4710;
+  font-family:times new roman; font-size:30px; 
+  font-weight:bold;
+  text-transform: capitalize;
+}
