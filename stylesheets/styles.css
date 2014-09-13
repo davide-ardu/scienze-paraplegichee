@@ -367,5 +367,5 @@ footer p + p {
   width:33%; padding:auto; text-align: center;
   border: 3px solid #C0C7C2; border-style:ridge;
   background-color:#A1BFAA;
-  font-family: arial; font-size:15px;
+  font-family: arial; font-size:15px; text-width:bold;
 }
