@@ -364,6 +364,7 @@ footer p + p {
 }
 
 .uppertable {
-  border: 3px solid blue; border-style:ridge;
-  background-color:#75C98E;
+  margin:0px; width:100%;
+  border: 3px solid grey; border-style:ridge;
+  background-color:#A1BFAA;
 }
