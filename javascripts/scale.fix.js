@@ -22,5 +22,5 @@ fixScale = function(doc) {
 
 function funmenu(){
 	
-	document.getElementById('upper').style.visibility = 'hidden';
+	document.getElementById('upper').style.backgroundcolor = 'white';
 }
