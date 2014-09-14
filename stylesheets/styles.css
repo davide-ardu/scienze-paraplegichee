@@ -15,8 +15,8 @@ body {
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
-  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
-}
+ /* background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
+*/}
 
 .wrapper {
   width: 640px;
@@ -366,21 +366,21 @@ footer p + p {
 /* #C0C7C2 */
 #uppertable1 {
   width:33%; padding:auto; text-align: center;
-  border: 3px solid #C8D4CC; border-style:ridge;
+  border: 3px solid grey; border-style:ridge;
   background-color:#C8D4CC;
   font-family: arial; font-size:15px; text-width:bold;
 }
 
 #uppertable2 {
   width:33%; padding:auto; text-align: center;
-  border: 3px solid #C8D4CC; border-style:ridge;
+  border: 3px solid grey; border-style:ridge;
   background-color:#C8D4CC;
   font-family: arial; font-size:15px; text-width:bold;
 }
 
 #uppertable3 {
   width:33%; padding:auto; text-align: center;
-  border: 3px solid #C8D4CC; border-style:ridge;
+  border: 3px solid grey; border-style:ridge;
   background-color:#C8D4CC;
   font-family: arial; font-size:15px; text-width:bold;
 }
