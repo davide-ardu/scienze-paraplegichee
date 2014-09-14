@@ -363,11 +363,24 @@ footer p + p {
   text-transform: capitalize;
 }
 
-.uppertable {
+/* #C0C7C2 */
+#uppertable1 {
   width:33%; padding:auto; text-align: center;
-  border: 3px solid #C0C7C2; border-style:ridge;
-  background-color:#A1BFAA;
+  border: 3px solid #C8D4CC; border-style:ridge;
+  background-color:#C8D4CC;
   font-family: arial; font-size:15px; text-width:bold;
 }
 
-#upper {background-color: black;}
+#uppertable2 {
+  width:33%; padding:auto; text-align: center;
+  border: 3px solid #C8D4CC; border-style:ridge;
+  background-color:#C8D4CC;
+  font-family: arial; font-size:15px; text-width:bold;
+}
+
+#uppertable3 {
+  width:33%; padding:auto; text-align: center;
+  border: 3px solid #C8D4CC; border-style:ridge;
+  background-color:#C8D4CC;
+  font-family: arial; font-size:15px; text-width:bold;
+}
