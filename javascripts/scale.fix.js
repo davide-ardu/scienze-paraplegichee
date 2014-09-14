@@ -18,3 +18,9 @@ fixScale = function(doc) {
 	}
 
 };
+
+
+function funmenu(){
+	
+	document.getElementById('upper').style.visibility = 'hidden';
+}
