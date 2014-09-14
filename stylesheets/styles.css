@@ -7,7 +7,7 @@ html {
   background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
-*/ background-color:#AA7DA5;}
+*/ background-color:#02BCB6;}
 
 body {
   padding: 50px 0;
@@ -357,7 +357,7 @@ footer p + p {
 
 
 .titoliparagrafi {
-  color: /*#084549;*/red;
+  color: #084549;   /* red; */
   font-family:times new roman; font-size:25px; 
   font-weight:bold;
   text-transform: capitalize;
