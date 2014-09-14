@@ -23,7 +23,7 @@ fixScale = function(doc) {
 function funmenu1(){
 	
 	document.getElementById('uppertable1').style.backgroundColor = '#C0C7C2';
-	onmouseout = document.getElementById('uppertable1').style.backgroundColor = '#C8D4CC';
+	//onmouseout = document.getElementById('uppertable1').style.backgroundColor = '#C8D4CC';
 }
 
 
