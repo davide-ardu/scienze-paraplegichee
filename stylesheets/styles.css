@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 html {
-  background: #6C7989;
+  /*background: #6C7989;
   background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
   background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
-}
+*/ background-color:#AA7DA5;}
 
 body {
   padding: 50px 0;
@@ -357,7 +357,7 @@ footer p + p {
 
 
 .titoliparagrafi {
-  color: #084549;
+  color: /*#084549;*/red;
   font-family:times new roman; font-size:25px; 
   font-weight:bold;
   text-transform: capitalize;
