@@ -23,19 +23,32 @@ fixScale = function(doc) {
 function funmenu1(){
 	
 	document.getElementById('uppertable1').style.backgroundColor = '#C0C7C2';
-	//onmouseout = document.getElementById('uppertable1').style.backgroundColor = '#C8D4CC';
+	
 }
 
 
 function funmenu2(){
 	
 	document.getElementById('uppertable2').style.backgroundColor = '#C0C7C2';
-	onmouseout = document.getElementById('uppertable2').style.backgroundColor = '#C8D4CC';
 }
 
 
 function funmenu3(){
 	
 	document.getElementById('uppertable3').style.backgroundColor = '#C0C7C2';
-	onmouseout = document.getElementById('uppertable3').style.backgroundColor = '#C8D4CC';
+}
+
+
+function funmenu1out(){
+document.getElementById('uppertable1').style.backgroundColor = '#C8D4CC';	
+}
+
+
+function funmenu2out(){
+document.getElementById('uppertable2').style.backgroundColor = '#C8D4CC';	
+}
+
+
+function funmenu3out(){
+document.getElementById('uppertable3').style.backgroundColor = '#C8D4CC';	
 }
