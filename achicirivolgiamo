@@ -31,7 +31,7 @@
       </header>
       
 <table style="margin: 0px"> <tr>
-  <td  id="uppertable1" onmouseover="funmenu1()">contattacii</td>
+  <td  id="uppertable1" onmouseover="funmenu1()">contattaci</td>
   <td  id="uppertable2" onmouseover="funmenu2()">come trovarci</td>
   <td  id="uppertable3" onmouseover="funmenu3()">la nostra storia</td>
 </tr></table>
