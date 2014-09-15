@@ -178,12 +178,12 @@ section {
   padding: 15px 20px;
   font-size: 15px;
   border-top: 1px solid #fff;
-  background: -webkit-gradient(linear, 50% 0%, 50% 700, color-stop(0%, ##E262E2), color-stop(100%, #b1b1b1));
-  background: -webkit-linear-gradient(#fafafa, #dedede 700px);
-  background: -moz-linear-gradient(#fafafa, #dedede 700px);
-  background: -o-linear-gradient(#fafafa, #dedede 700px);
-  background: -ms-linear-gradient(#fafafa, #dedede 700px);
-  background: linear-gradient(#fafafa, #dedede 700px);
+  background: -webkit-gradient(linear, 50% 0%, 50% 700, color-stop(0%, #E262E2), color-stop(100%, #b1b1b1));
+  background: -webkit-linear-gradient(#E262E2,  #b1b1b1 700px);
+  background: -moz-linear-gradient(#E262E2,  #b1b1b1 700px);
+  background: -o-linear-gradient(#E262E2,  #b1b1b1 700px);
+  background: -ms-linear-gradient(#E262E2,  #b1b1b1 700px);
+  background: linear-gradient(#E262E2,  #b1b1b1 700px);
   -webkit-border-radius: 0 0 8px 8px;
   -moz-border-radius: 0 0 8px 8px;
   -ms-border-radius: 0 0 8px 8px;
