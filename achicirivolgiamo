@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRH_9U_5QOkuphtL4096ag3oEjSP8TlvonnH0DhsFGyai2uHxUG" style="width: 20%; height: auto; position: absolute; top: 5px; left: 5px; z-index:2;"/>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>La comunità di Don Zenone</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">   
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    <style>  </style>
+    
+    <!--[if lt IE 9]>
+    <script src="///html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header style="margin: 0px; background-color: #BA36BA">
+        <h1 class="titoliparagrafi" style="color: #191669;font-size:38px;letter-spacing:4px; position:relative; z-index:3; text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;">La comunità</h1>
+          <p class="view"><a href="https://github.com/davide-ardu/scienze-paraplegiche">View the Project on GitHub <small>davide-ardu/scienze-paraplegiche</small></a></p>
+          <ul>
+          <li><a href="https://github.com/davide-ardu/scienze-paraplegiche/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/davide-ardu/scienze-paraplegiche/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/davide-ardu/scienze-paraplegiche">View On <strong>GitHub</strong></a></li>
+          </ul>
+      </header>
+      
+<table style="margin: 0px"> <tr>
+  <td  id="uppertable1" onmouseover="funmenu1()">contattacii</td>
+  <td  id="uppertable2" onmouseover="funmenu2()">come trovarci</td>
+  <td  id="uppertable3" onmouseover="funmenu3()">la nostra storia</td>
+</tr></table>
+
+      <section>
+      
+<h4 class="titoliparagrafi"><a name="achicirivolgiamo" class="anchor" href=" "><span class="octicon octicon-link"></span></a>A chi ci rivolgiamo</h4>
+
+<p>La nostra comunità offre servizio a tutte le persone che lo richiedono, a seconda delle necessità. </br> In questo splendido luogo immerso nel verde della Brianza potrai vivere un'esperienza di alcuni giorni in tranquillità assieme alla tua famiglia o da solo, conoscere le persone che vi alloggiano in modalità residenziale, e usufruire di tutti i servizi che vi competono. <h4>Per vivere in modalità residenziale:</h4> E' possibile, per le persone in difficoltà o bisognose di assistenza richiedere un soggiorno per tempo medio-lungo.</br>Rivolgersi al responsabile, Arturo o fare richiesta al proprio comune, Servizi Sociali.</p>
+
+      </section>
+    </div>
+    <footer>
+      <p>Project maintained by <a href="https://github.com/davide-ardu">davide-ardu</a></p>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
